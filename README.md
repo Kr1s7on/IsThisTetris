@@ -25,8 +25,14 @@ C Key       - Hold current for later use
 
 ### Play
 
-Run the game on your terminal:
+1. You need ```pygame``` installed:
 
-```bash
-python3 IsThisTetris.py
-```
+    ```bash
+    pip install pygame
+    ```
+
+2. Run the game on your terminal:
+
+    ```bash
+    python3 IsThisTetris.py
+    ```
